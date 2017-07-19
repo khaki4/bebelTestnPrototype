@@ -1,4 +1,4 @@
-# bebelTestnPrototype
+# babelTestnPrototype
 
 참조
 http://insanehong.kr/post/javascript-prototype/
